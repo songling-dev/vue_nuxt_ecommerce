@@ -16,7 +16,3 @@ yarn dev
 # generate static pages via nuxt.js for static hosting
 yarn build
 ```
-
-## Changelog
-
-See the release notes into [changelog.md](changelog.md)
